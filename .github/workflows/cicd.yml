@@ -1,6 +1,6 @@
 name: My first pipeline
 on:
-  push: ["main"]
+  push: 
       branches: ["main"]
 
 
